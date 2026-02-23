@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476414345581",
+    "project_id": "flutter-5cdbb",
+    "storage_bucket": "flutter-5cdbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476414345581:android:5936cadc16c9fba7f39a64",
+        "android_client_info": {
+          "package_name": "com.cartier.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALGFeRq23SfEMGyN8iXsKNdcRPXostN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476414345581:android:e8b29fec51d073e5f39a64",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALGFeRq23SfEMGyN8iXsKNdcRPXostN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
